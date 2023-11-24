@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:id="@+id/nav_home"
+        android:title="Home"
+        android:icon="@drawable/baseline_home_24"/>
+
+    <item android:id="@+id/nav_map"
+        android:title="Crime Alert Map"
+        android:icon="@drawable/baseline_map_24"/>
+
+    <item android:id="@+id/nav_Safety"
+        android:title="Safety GuideLines"
+        android:icon="@drawable/baseline_notes_24"/>
+
+    <item android:id="@+id/nav_report"
+        android:title="Report Incident"
+        android:icon="@drawable/baseline_report_24"/>
+
+    <item android:id="@+id/nav_trends"
+        android:title="Crime Trends"
+        android:icon="@drawable/baseline_trending_up_24"/>
+
+    <item android:id="@+id/nav_tips"
+        android:title="Basic Tips"
+        android:icon="@drawable/baseline_tips_and_updates_24"/>
+
+    <item android:id="@+id/nav_comments"
+        android:title="Incident Comments"
+        android:icon="@drawable/baseline_insert_comment_24"/>
+
+</menu>
